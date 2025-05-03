@@ -13,3 +13,4 @@
    ```
    $ streamlit run streamlit_app.py
    ```
+*Don't forget to enter OPENAI API code.*
